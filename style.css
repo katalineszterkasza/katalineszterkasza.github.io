@@ -1,0 +1,19 @@
+body {
+
+font-size:18px;
+background-color:grey;
+max-width:500px;
+}
+img {
+width:320px;
+}
+header{
+align-content:center;
+}
+a:link
+a:visited 
+.magenta{
+color:magenta;
+text-decoration:none;
+}
+
